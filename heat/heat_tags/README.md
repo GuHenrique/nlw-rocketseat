@@ -22,4 +22,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 - mix ecto.create
 - mix phx.server
+
 - mix ecto.gen.migration create_messages
+- mix ecto.migrate
